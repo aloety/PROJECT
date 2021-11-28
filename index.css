@@ -1,0 +1,35 @@
+* {
+    font-size: 103%;
+box-sizing: border-box;
+
+}
+.container{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.c1 , .c3, .c4{
+
+width: 400px;
+height: 90px;
+display: block;
+
+text-align: center;
+
+}
+
+.all{
+    background-color:palegreen ;
+}
+.h1{
+  
+    height: 124px;
+    background-image: url(https://images5.alphacoders.com/567/567118.jpg);
+  
+}
+.h7{
+     height: 79px;
+    text-align: center;
+}
+
